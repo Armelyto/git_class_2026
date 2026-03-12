@@ -1,4 +1,5 @@
 # La Pizza
+![Pizza Napolitaine](recipes/pizzaNap.jpg)
 *from [Wikipedia](https://en.wikipedia.org)*
 
 Pizza is a traditional Napolitan dish consisting of a yeasted flatbread typically
