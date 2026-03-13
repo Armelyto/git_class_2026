@@ -1,4 +1,4 @@
-Modification 13/03/2026
+Modification 13/03/2026 en ligne
 # Git - Branches et Fusion
 
 Ce projet est un exercice pratique pour apprendre les bases de Git, notamment la gestion des branches et la fusion de code.
